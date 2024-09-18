@@ -1,6 +1,6 @@
 # LLM-Material-Embeddings
 
-![image](Image/LLMbed.png = 500x)
+<img src="Image/LLMbed.png" width="700">
 
 ## Create Embeddings
 
